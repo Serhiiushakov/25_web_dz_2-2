@@ -1,0 +1,14 @@
+What's next:
+    View a summary of image vulnerabilities and recommendations → docker scout quickview
+PS D:\Visual_Studio_Code\25_web_dz_2-2> docker run -it personal-assistant /bin/bash
+root@af8876fe3362:/app# python dz8.py
+Welcome to the assistant bot!
+Enter a command: hello
+How can I help you?
+Enter a command: add serhii 0979104392
+Contact added.
+Enter a command: all
+Contact: serhii, phone: 0979104392, birthday: None
+Enter a command: exit
+Good bye!
+root@af8876fe3362:/app#
